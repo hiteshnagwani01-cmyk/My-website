@@ -1,0 +1,6 @@
+{
+  "name": "Flowly - Modern Team Workflow & Productivity SaaS",
+  "description": "Flowly brings your team's work, workflows, and productivity into one simple platform. Automate tasks, track real-time analytics, and collaborate seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
